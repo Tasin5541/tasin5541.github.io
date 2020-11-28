@@ -1,0 +1,110 @@
+.tool-meter { 
+    height: 20px;
+    position: relative;
+    background: rgb(243, 239, 239);
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+    border-radius: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.tool-meter > span {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #aaa5ff;
+    position: relative;
+    overflow: hidden;
+}
+.tool{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 2.5vw;
+    padding-right: 5em;
+}
+.tool p{
+    margin-right: auto;
+}
+.tool > * {
+    flex: 1;
+}
+.tool-bars{
+    font-size: 28px;
+    width: 40%;
+}
+.tool-heading{
+    width: 90%;
+    padding: 20px 10px;
+    margin: 0px auto;
+    margin-top: 2rem;
+}
+.tool-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 90%;
+    padding: 0px 10px;
+    margin: 0px auto;
+}
+.tool-container > *:nth-child(1) {
+    flex: 1;
+    margin-bottom: 20px;
+}
+.tool-container > *:nth-child(2) {
+    flex: 1;
+    margin-bottom: 20px;
+}
+.tool-image > img {
+    margin-left: 80px;
+    max-width: 90%;
+    height: auto;
+}
+
+/* Media Query */
+
+@media (max-width: 1380px) {
+    .tool-bar {
+        line-height: 4rem;
+    }
+    .tool-image {
+        order: 2;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .tool-container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .tool{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        padding-right: 0em;
+    }
+    .tool > * {
+    flex: none;
+    }
+    .tool-bar {
+        line-height: 3rem;
+    }
+    .tool-image {
+        order: 2;
+    }
+}
+  

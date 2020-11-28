@@ -1,0 +1,104 @@
+.lmeter { 
+    height: 20px;
+    position: relative;
+    background: rgb(243, 239, 239);
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+    border-radius: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.lmeter > span {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: #aaa5ff;
+    position: relative;
+    overflow: hidden;
+}
+.lskill{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 2.5vw;
+    padding-right: 5em;
+}
+.lskill p{
+    margin-right: auto;
+}
+.lskill > * {
+    flex: 1;
+}
+.lskills-bar{
+}
+.lskills-heading{
+    width: 90%;
+    padding: 20px 10px;
+    margin: 0px auto;
+    margin-top: 2rem;
+}
+.lskills-container {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 90%;
+    padding: 0px 10px;
+    margin: 0px auto;
+}
+.lskills-container > * {
+    flex: 1;
+    margin-bottom: 20px;
+}
+.lskills-image > img {
+    margin-left: 80px;
+    max-width: 90%;
+    height: auto;
+}
+
+/* Media Query */
+
+@media (max-width: 1380px) {
+    .lskills-bar {
+        line-height: 4rem;
+    }
+    .lskills-image {
+        order: 2;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .lskills-container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .lskill{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        padding-right: 0em;
+    }
+    .lskill > * {
+    flex: none;
+    }
+    .lskills-bar {
+        line-height: 3rem;
+    }
+    .lskills-image {
+        order: 2;
+    }
+}
+  

@@ -1,0 +1,21 @@
+.footer-text {
+  text-align: center;
+  /* color: #868e96; */
+  font-weight: bold;
+  font-family: "Google Sans Regular";
+}
+
+.theme-text {
+  text-align: center;
+  font-size: 0.8rem;
+  margin: 0;
+  /* color: #868e96; */
+}
+
+.theme-text p{
+  margin: 0;
+  /* color: #868e96; */
+}
+
+.footer-div {
+}
