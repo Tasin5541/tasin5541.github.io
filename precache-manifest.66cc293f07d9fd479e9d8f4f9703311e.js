@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f9257ec6f17b515b87bd07eef7c14d1",
+    "revision": "acc4776197d3eb8e96f5a359f9896280",
     "url": "/index.html"
   },
   {
-    "revision": "4cfe209cce69d520f657",
+    "revision": "484feb3de37cdd4642f2",
     "url": "/static/css/main.3980fe39.chunk.css"
   },
   {
-    "revision": "ef6284e17c860662939b",
-    "url": "/static/js/2.58988d0d.chunk.js"
+    "revision": "43922da9f2a81ee99705",
+    "url": "/static/js/2.0494d0a8.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/static/js/2.58988d0d.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.0494d0a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cfe209cce69d520f657",
-    "url": "/static/js/main.fc5836ba.chunk.js"
+    "revision": "484feb3de37cdd4642f2",
+    "url": "/static/js/main.628b613e.chunk.js"
   },
   {
     "revision": "430500548d88b152aedd",
@@ -152,10 +152,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "f65ee6f64b46db0ae0f59279ea7853a8",
-    "url": "/static/media/dsc_logo.f65ee6f6.png"
-  },
-  {
     "revision": "caed892b2a0b817a8e275ae29638edaf",
     "url": "/static/media/education.caed892b.svg"
   },
@@ -264,20 +260,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.6d325fec.png"
   },
   {
-    "revision": "c350d7996596e9909fe72c0938cc9ee5",
-    "url": "/static/media/iiitk_logo.c350d799.png"
-  },
-  {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
     "url": "/static/media/jsFramework.b05ae5b5.svg"
-  },
-  {
-    "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
-    "url": "/static/media/legato_logo.4ba886ba.png"
   },
   {
     "revision": "260d57586012b0ed1ae78accc0bf7083",
@@ -316,6 +304,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nptel_logo.cd7077f7.png"
   },
   {
+    "revision": "9666b7269735255c84bc231df1dc0a95",
+    "url": "/static/media/pixelmask_logo.9666b726.png"
+  },
+  {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
     "url": "/static/media/portfolio.6e7dc5ad.gif"
   },
@@ -334,10 +326,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "da0e7c80b90df28dd3a590c80f3d4970",
-    "url": "/static/media/stanford_logo.da0e7c80.png"
   },
   {
     "revision": "4db24c0e662ca0fbacc25b3c959afedc",
