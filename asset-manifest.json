@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.8cb66484.chunk.css",
-    "main.js": "/static/js/main.97c71271.chunk.js",
-    "main.js.map": "/static/js/main.97c71271.chunk.js.map",
+    "main.js": "/static/js/main.4a64c889.chunk.js",
+    "main.js.map": "/static/js/main.4a64c889.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c976e1c.js",
     "runtime-main.js.map": "/static/js/runtime-main.7c976e1c.js.map",
-    "static/js/2.638b3464.chunk.js": "/static/js/2.638b3464.chunk.js",
-    "static/js/2.638b3464.chunk.js.map": "/static/js/2.638b3464.chunk.js.map",
+    "static/js/2.fa1231d1.chunk.js": "/static/js/2.fa1231d1.chunk.js",
+    "static/js/2.fa1231d1.chunk.js.map": "/static/js/2.fa1231d1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d0bc1fb03ba75e937a440510c8e4a40c.js": "/precache-manifest.d0bc1fb03ba75e937a440510c8e4a40c.js",
+    "precache-manifest.cc0a6a76d750b8ce758a33d937d058e5.js": "/precache-manifest.cc0a6a76d750b8ce758a33d937d058e5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.8cb66484.chunk.css.map": "/static/css/main.8cb66484.chunk.css.map",
-    "static/js/2.638b3464.chunk.js.LICENSE.txt": "/static/js/2.638b3464.chunk.js.LICENSE.txt",
+    "static/js/2.fa1231d1.chunk.js.LICENSE.txt": "/static/js/2.fa1231d1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/android-icon-144x144.png": "/static/media/android-icon-144x144.49e0ee73.png",
@@ -33,6 +33,7 @@
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
+    "static/media/codeexcel.jpg": "/static/media/codeexcel.0c21ad95.jpg",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/data_science.svg": "/static/media/data_science.434d2b01.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
@@ -77,8 +78,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7c976e1c.js",
-    "static/js/2.638b3464.chunk.js",
+    "static/js/2.fa1231d1.chunk.js",
     "static/css/main.8cb66484.chunk.css",
-    "static/js/main.97c71271.chunk.js"
+    "static/js/main.4a64c889.chunk.js"
   ]
 }
