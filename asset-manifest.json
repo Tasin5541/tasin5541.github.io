@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.927aa631.chunk.css",
-    "main.js": "/static/js/main.2aacddeb.chunk.js",
-    "main.js.map": "/static/js/main.2aacddeb.chunk.js.map",
+    "main.js": "/static/js/main.4bd3967a.chunk.js",
+    "main.js.map": "/static/js/main.4bd3967a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c976e1c.js",
     "runtime-main.js.map": "/static/js/runtime-main.7c976e1c.js.map",
-    "static/js/2.f5553c72.chunk.js": "/static/js/2.f5553c72.chunk.js",
-    "static/js/2.f5553c72.chunk.js.map": "/static/js/2.f5553c72.chunk.js.map",
+    "static/js/2.b1099ba1.chunk.js": "/static/js/2.b1099ba1.chunk.js",
+    "static/js/2.b1099ba1.chunk.js.map": "/static/js/2.b1099ba1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a409b2e327fdb49d41949a55e6f76ebf.js": "/precache-manifest.a409b2e327fdb49d41949a55e6f76ebf.js",
+    "precache-manifest.7ed9d9fc25ec0114ffee507af0228dd4.js": "/precache-manifest.7ed9d9fc25ec0114ffee507af0228dd4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.927aa631.chunk.css.map": "/static/css/main.927aa631.chunk.css.map",
-    "static/js/2.f5553c72.chunk.js.LICENSE.txt": "/static/js/2.f5553c72.chunk.js.LICENSE.txt",
+    "static/js/2.b1099ba1.chunk.js.LICENSE.txt": "/static/js/2.b1099ba1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/android-icon-144x144.png": "/static/media/android-icon-144x144.49e0ee73.png",
@@ -78,8 +78,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7c976e1c.js",
-    "static/js/2.f5553c72.chunk.js",
+    "static/js/2.b1099ba1.chunk.js",
     "static/css/main.927aa631.chunk.css",
-    "static/js/main.2aacddeb.chunk.js"
+    "static/js/main.4bd3967a.chunk.js"
   ]
 }
